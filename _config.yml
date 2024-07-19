@@ -18,7 +18,7 @@ baseurl: ''
 title: 'behind the stacks'
 description: 'libraries, technology, digital culture'
 permalink: pretty
-# logo: "path"
+logo: "/logo.jpg"
 
 # Pagination
 paginate: 5
